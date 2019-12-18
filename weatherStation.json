@@ -1,0 +1,490 @@
+[
+ {
+   "wsid": 178,
+   "wsnm": "SÃƒO GONÃ‡ALO"
+ },
+ {
+   "wsid": 303,
+   "wsnm": "VITÃ“RIA"
+ },
+ {
+   "wsid": 304,
+   "wsnm": "SANTA TERESA"
+ },
+ {
+   "wsid": 305,
+   "wsnm": "LINHARES"
+ },
+ {
+   "wsid": 306,
+   "wsnm": "ALFREDO CHAVES"
+ },
+ {
+   "wsid": 307,
+   "wsnm": "SÃƒO MATEUS"
+ },
+ {
+   "wsid": 308,
+   "wsnm": "ALEGRE"
+ },
+ {
+   "wsid": 309,
+   "wsnm": "PRES. KENNEDY"
+ },
+ {
+   "wsid": 310,
+   "wsnm": "NOVA VENECIA"
+ },
+ {
+   "wsid": 311,
+   "wsnm": "AFONSO CLAUDIO"
+ },
+ {
+   "wsid": 312,
+   "wsnm": "BARBACENA"
+ },
+ {
+   "wsid": 313,
+   "wsnm": "ARAX́"
+ },
+ {
+   "wsid": 314,
+   "wsnm": "MONTES CLAROS"
+ },
+ {
+   "wsid": 315,
+   "wsnm": "UBERLÃ‚NDIA"
+ },
+ {
+   "wsid": 316,
+   "wsnm": "ALMENARA"
+ },
+ {
+   "wsid": 317,
+   "wsnm": "MONTE VERDE"
+ },
+ {
+   "wsid": 318,
+   "wsnm": "VIÃ‡OSA"
+ },
+ {
+   "wsid": 319,
+   "wsnm": "TIMÃ“TEO"
+ },
+ {
+   "wsid": 320,
+   "wsnm": "ITUIUTABA"
+ },
+ {
+   "wsid": 321,
+   "wsnm": "OURO BRANCO"
+ },
+ {
+   "wsid": 322,
+   "wsnm": "S.J.DEL REI"
+ },
+ {
+   "wsid": 323,
+   "wsnm": "VARGINHA"
+ },
+ {
+   "wsid": 324,
+   "wsnm": "PASSOS"
+ },
+ {
+   "wsid": 325,
+   "wsnm": "MURIAÃ‰"
+ },
+ {
+   "wsid": 326,
+   "wsnm": "JU̍Z DE FORA"
+ },
+ {
+   "wsid": 327,
+   "wsnm": "CAMPINA VERDE"
+ },
+ {
+   "wsid": 328,
+   "wsnm": "CONC. DAS ALAGOAS"
+ },
+ {
+   "wsid": 329,
+   "wsnm": "BELO HOR. (PAMPULHA)"
+ },
+ {
+   "wsid": 330,
+   "wsnm": "SERRA DOS AIMORES"
+ },
+ {
+   "wsid": 331,
+   "wsnm": "PATROC̍NIO"
+ },
+ {
+   "wsid": 332,
+   "wsnm": "FORMIGA"
+ },
+ {
+   "wsid": 333,
+   "wsnm": "SACRAMENTO"
+ },
+ {
+   "wsid": 334,
+   "wsnm": "MONTALVANIA"
+ },
+ {
+   "wsid": 335,
+   "wsnm": "TEÃ“FILO OTONI"
+ },
+ {
+   "wsid": 336,
+   "wsnm": "TRÃŠS MARIAS"
+ },
+ {
+   "wsid": 337,
+   "wsnm": "PASSA QUATRO"
+ },
+ {
+   "wsid": 338,
+   "wsnm": "CALDAS"
+ },
+ {
+   "wsid": 339,
+   "wsnm": "MARIA DA FÃ‰"
+ },
+ {
+   "wsid": 340,
+   "wsnm": "GOVERNADOR VALADARES"
+ },
+ {
+   "wsid": 341,
+   "wsnm": "GUANHÃƒES"
+ },
+ {
+   "wsid": 342,
+   "wsnm": "AIMORES"
+ },
+ {
+   "wsid": 343,
+   "wsnm": "FLORESTAL"
+ },
+ {
+   "wsid": 344,
+   "wsnm": "DORES DO INDAÍ"
+ },
+ {
+   "wsid": 345,
+   "wsnm": "DIAMANTINA"
+ },
+ {
+   "wsid": 346,
+   "wsnm": "CURVELO"
+ },
+ {
+   "wsid": 347,
+   "wsnm": "MOCAMBINHO"
+ },
+ {
+   "wsid": 348,
+   "wsnm": "MANTENA"
+ },
+ {
+   "wsid": 349,
+   "wsnm": "CAPELINHA"
+ },
+ {
+   "wsid": 350,
+   "wsnm": "UNAI"
+ },
+ {
+   "wsid": 351,
+   "wsnm": "ESPINOSA"
+ },
+ {
+   "wsid": 352,
+   "wsnm": "BURITIS"
+ },
+ {
+   "wsid": 353,
+   "wsnm": "PIRAPORA"
+ },
+ {
+   "wsid": 354,
+   "wsnm": "GUARDA-MOR"
+ },
+ {
+   "wsid": 355,
+   "wsnm": "SÃƒO ROMÃƒO"
+ },
+ {
+   "wsid": 356,
+   "wsnm": "CHAPADA GAÃšCHA"
+ },
+ {
+   "wsid": 357,
+   "wsnm": "́GUAS VERMELHAS"
+ },
+ {
+   "wsid": 358,
+   "wsnm": "ITAOBIM"
+ },
+ {
+   "wsid": 359,
+   "wsnm": "RIO PARDO DE MINAS"
+ },
+ {
+   "wsid": 360,
+   "wsnm": "SALINAS"
+ },
+ {
+   "wsid": 361,
+   "wsnm": "JOÃƒO PINHEIRO"
+ },
+ {
+   "wsid": 362,
+   "wsnm": "CARATINGA"
+ },
+ {
+   "wsid": 363,
+   "wsnm": "IBIRITÃˆ (ROLA MOÃ‡A)"
+ },
+ {
+   "wsid": 364,
+   "wsnm": "MANHUAÃ‡U"
+ },
+ {
+   "wsid": 365,
+   "wsnm": "CORONEL PACHECO"
+ },
+ {
+   "wsid": 366,
+   "wsnm": "JANUARIA"
+ },
+ {
+   "wsid": 367,
+   "wsnm": "POMPEU"
+ },
+ {
+   "wsid": 368,
+   "wsnm": "SÃƒO SEBASTIAO DO PARAÃSO"
+ },
+ {
+   "wsid": 369,
+   "wsnm": "SETE LAGOAS"
+ },
+ {
+   "wsid": 370,
+   "wsnm": "BELO HORIZONTE - CERCADINHO"
+ },
+ {
+   "wsid": 371,
+   "wsnm": "ECOLOGIA AGR̍COLA"
+ },
+ {
+   "wsid": 372,
+   "wsnm": "MARAMBAIA"
+ },
+ {
+   "wsid": 373,
+   "wsnm": "XEREM"
+ },
+ {
+   "wsid": 374,
+   "wsnm": "CAMBUC̍"
+ },
+ {
+   "wsid": 375,
+   "wsnm": "ARRAIAL DO CABO"
+ },
+ {
+   "wsid": 376,
+   "wsnm": "CAMPOS"
+ },
+ {
+   "wsid": 377,
+   "wsnm": "MACAÃ‰"
+ },
+ {
+   "wsid": 378,
+   "wsnm": "RESENDE"
+ },
+ {
+   "wsid": 379,
+   "wsnm": "PICO DO COUTO"
+ },
+ {
+   "wsid": 380,
+   "wsnm": "VALENÃ‡A"
+ },
+ {
+   "wsid": 381,
+   "wsnm": "TERESÃ“POLIS"
+ },
+ {
+   "wsid": 382,
+   "wsnm": "PARAT̍"
+ },
+ {
+   "wsid": 383,
+   "wsnm": "SÃƒO TOMÃ‰"
+ },
+ {
+   "wsid": 384,
+   "wsnm": "VILA MILITAR"
+ },
+ {
+   "wsid": 385,
+   "wsnm": "NOVA FRIBURGO"
+ },
+ {
+   "wsid": 386,
+   "wsnm": "TRÃŠS RIOS"
+ },
+ {
+   "wsid": 387,
+   "wsnm": "RIO CLARO"
+ },
+ {
+   "wsid": 388,
+   "wsnm": "FORTE DE COPACABANA"
+ },
+ {
+   "wsid": 389,
+   "wsnm": "JACAREPAGUA"
+ },
+ {
+   "wsid": 390,
+   "wsnm": "SILVA JARDIM"
+ },
+ {
+   "wsid": 391,
+   "wsnm": "SAQUAREMA"
+ },
+ {
+   "wsid": 392,
+   "wsnm": "SAO PAULO"
+ },
+ {
+   "wsid": 393,
+   "wsnm": "BAURU"
+ },
+ {
+   "wsid": 394,
+   "wsnm": "CAMPOS DO JORDÃƒO"
+ },
+ {
+   "wsid": 395,
+   "wsnm": "PRESIDENTE PRUDENTE"
+ },
+ {
+   "wsid": 396,
+   "wsnm": "FRANCA"
+ },
+ {
+   "wsid": 397,
+   "wsnm": "SÃƒO CARLOS"
+ },
+ {
+   "wsid": 398,
+   "wsnm": "IGUAPE"
+ },
+ {
+   "wsid": 399,
+   "wsnm": "SOROCABA"
+ },
+ {
+   "wsid": 400,
+   "wsnm": "ITAPEVA"
+ },
+ {
+   "wsid": 401,
+   "wsnm": "S. MIG. ARCANJO"
+ },
+ {
+   "wsid": 402,
+   "wsnm": "OURINHOS"
+ },
+ {
+   "wsid": 403,
+   "wsnm": "RANCHARIA"
+ },
+ {
+   "wsid": 404,
+   "wsnm": "AVARÃ‰"
+ },
+ {
+   "wsid": 405,
+   "wsnm": "PIRACICABA"
+ },
+ {
+   "wsid": 406,
+   "wsnm": "LINS"
+ },
+ {
+   "wsid": 407,
+   "wsnm": "TAUBATÃ‰"
+ },
+ {
+   "wsid": 408,
+   "wsnm": "VOTUPORANGA"
+ },
+ {
+   "wsid": 409,
+   "wsnm": "JALES"
+ },
+ {
+   "wsid": 410,
+   "wsnm": "VALPARAISO"
+ },
+ {
+   "wsid": 411,
+   "wsnm": "JOSÃ‰ BONIFÃCIO"
+ },
+ {
+   "wsid": 412,
+   "wsnm": "ARIRANHA"
+ },
+ {
+   "wsid": 413,
+   "wsnm": "IBITINGA"
+ },
+ {
+   "wsid": 414,
+   "wsnm": "CASA BRANCA"
+ },
+ {
+   "wsid": 415,
+   "wsnm": "ITAPIRA"
+ },
+ {
+   "wsid": 416,
+   "wsnm": "S LUIS DO PARAITINGA"
+ },
+ {
+   "wsid": 417,
+   "wsnm": "BARRA BONITA"
+ },
+ {
+   "wsid": 418,
+   "wsnm": "MOELA"
+ },
+ {
+   "wsid": 419,
+   "wsnm": "BARRA DO TURVO"
+ },
+ {
+   "wsid": 420,
+   "wsnm": "PRADÃ“POLIS"
+ },
+ {
+   "wsid": 421,
+   "wsnm": "BARRETOS"
+ },
+ {
+   "wsid": 422,
+   "wsnm": "ITUVERAVA"
+ },
+ {
+   "wsid": 423,
+   "wsnm": "BARUERI"
+ }
+]

@@ -1,0 +1,70 @@
+      
+                
+      <html>
+            
+            <body>  
+                  <h1 style="font-family: 'Calibri';font-size: 40px; text-align: center;" > Mongo DB </h1>          
+               <p style="font-family: 'Calibri';font-size: 20px; text-align: center;" >Response time in milliseconds: <%=duration%></p>                 
+      <table border = "1">
+          
+            <tr>
+               <th>station_id</th>
+               <th>station_name</th>
+               <th>elevation</th>
+               <th>latitude</th>
+               <th>longitude</th>
+               <th>inmet_no</th>
+               <th>city</th>
+               <th>prov</th>
+               <th>observation_dt</th>              
+               <th>prcp</th>
+               <th>air+pressure</th>
+               <th>smax</th>
+               <th>smin</th>
+               <th>solar_radiation</th>
+               <th>temp</th>
+               <th>dewp</th>
+               <th>tmax</th>
+               <th>dmax</th>
+               <th>tmin</th>
+               <th>dmin</th>
+               <th>hmdy</th>
+               <th>hmax</th>
+               <th>hmin</th>
+               <th>wind_speed</th>
+               <th>wind_direction</th>
+               <th>gust</th>            
+            </tr>
+            <%  for(i in data){ %>
+            <tr>
+               <td><%= data[i].wsid %></td>
+               <td><%= data[i].wsnm %></td>
+               <td><%= data[i].elvt %></td>
+               <td><%= data[i].lat %></td>
+               <td><%= data[i].lon %></td>
+               <td><%= data[i].inme %></td>
+               <td><%= data[i].city %></td>
+               <td><%= data[i].prov %></td>
+               <td><%= data[i].mdct %></td>
+               <td><%= data[i].prcp %></td>
+               <td><%= data[i].stp %></td>
+               <td><%= data[i].smax %></td>
+               <td><%= data[i].smin %></td>
+               <td><%= (data[i].gbrd).toFixed(2) %></td>
+               <td><%= data[i].temp %></td>
+               <td><%= data[i].dewp %></td>
+               <td><%= data[i].tmax %></td>
+               <td><%= data[i].dmax %></td>
+               <td><%= data[i].tmin %></td>
+               <td><%= data[i].dmin %></td>
+               <td><%= data[i].hmdy %></td>
+               <td><%= data[i].hmax %></td>
+               <td><%= data[i].hmin %></td>
+               <td><%= data[i].wdsp %></td>
+               <td><%= data[i].wdct %></td>
+               <td><%= data[i].gust %></td>
+            </tr>
+            <%}%>
+         </table>
+        </body>
+        </html>   

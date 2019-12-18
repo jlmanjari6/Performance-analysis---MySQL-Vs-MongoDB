@@ -1,0 +1,17 @@
+<html>
+    <head></head>
+    <body> 
+       <h1 style="font-family: 'Calibri';font-size: 40px; text-align: center;" > Case Study </h1>          
+            <form id="form1"  style="font-family: 'Calibri';font-size: 20px; text-align: center;" action="/" method="post">
+                   Select Station Id: <select class="selectpicker" name = "selectpicker">
+                           
+                            <%  for(i in stations){ %>
+                       <option style="font-family: 'Calibri';font-size: 20px; text-align: center;" value = "<%= stations[i].wsid %>"><%= stations[i].wsid %></option>
+                       <%}%>
+                    </select><br/><br>
+                    <input  style="font-family: 'Calibri';font-size: 20px; text-align: center;" type="submit" value="Submit" />
+                 </form>
+
+         
+    </body>
+    </html>
