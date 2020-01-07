@@ -49,5 +49,14 @@ and the path of the csv file. </p>
 <a href="https://ibb.co/gt4dk3z"><img src="https://i.ibb.co/h2Yc3yD/sq4.png" alt="sq4" border="0" height="150"></a>
 <a href="https://ibb.co/gWqPgSv"><img src="https://i.ibb.co/Zg4YTBH/sq5.png" alt="sq5" border="0" height="200" width="500"></a>
 
+<ul>
+  <li>
+➢ To retrieve 5000 records, MYSQL performed slightly better than MongoDB to retrieve the records.
+  </li>
+  <li>
+➢ However, to retrieve 100000 records and more, Mongo DB took less response time compared to MySQL. So, in my opinion, both have their own advantages and disadvantages and MongoDB performs better in handling huge amounts of data (insertions and retrieval) compared to MySQL. Nevertheless, the performance also depends on various other factors such as the technologies chosen etc.
+  </li>
+  </ul>
+
 
 
